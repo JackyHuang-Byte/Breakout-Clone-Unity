@@ -25,11 +25,11 @@ This project was created to practice level design, collision mechanics, and data
 
 ## ▶️ How to Run
 
-- Open in Unity 2022.3 or newer  
-- Load the `MainScene` from the `Scenes` folder  
-- Enter Play Mode  
-- Create your own level layout and set hit counts for bricks, or use the default preset with Quick Start  
-- Use arrow keys (← / →) or A & D keys to control the paddle
+1. Open in Unity 2022.3 or newer  
+2. Load the `MainScene` from the `Scenes` folder  
+3. Enter Play Mode  
+4. Create your own level layout and set hit counts for bricks, or use the default preset with Quick Start  
+5. Use arrow keys (← / →) or A & D keys to control the paddle
 
 ---
 
